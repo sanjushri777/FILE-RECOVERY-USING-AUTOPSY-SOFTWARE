@@ -1,3 +1,4 @@
+
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
 
 ## AIM
@@ -71,6 +72,20 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 ```
 
 ## OUTPUT:
+
+<img width="1194" height="718" alt="Screenshot 2025-09-11 220122" src="https://github.com/user-attachments/assets/bf39d71f-2eec-4476-9713-c14b82f01271" />
+<img width="1186" height="695" alt="Screenshot 2025-09-11 220145" src="https://github.com/user-attachments/assets/d99341dc-1ee9-4ec8-a60f-c4ebee7e36d3" />
+
+<img width="1705" height="1009" alt="Screenshot 2025-09-12 081915" src="https://github.com/user-attachments/assets/7c8ec393-1ad0-4171-a742-b6d5e552bd9e" />
+
+<img width="1699" height="1008" alt="Screenshot 2025-09-12 082113" src="https://github.com/user-attachments/assets/74fa3dae-1d5f-4fc0-9079-763979a762d2" />
+<img width="1704" height="1011" alt="Screenshot 2025-09-12 082224" src="https://github.com/user-attachments/assets/a35249d5-14b2-439e-a91a-aaa0f22d2941" />
+
+<img width="1704" height="1010" alt="Screenshot 2025-09-12 082306" src="https://github.com/user-attachments/assets/897d199e-c34f-4b5c-8dac-bca2f9529045" />
+
+<img width="1704" height="1015" alt="Screenshot 2025-09-12 082643" src="https://github.com/user-attachments/assets/d7b3fe5d-86c7-456b-a5b2-a090f9487d4d" />
+<img width="1849" height="995" alt="Screenshot 2025-09-12 082710" src="https://github.com/user-attachments/assets/af188e39-67a6-455f-8fa8-897fa947bd1a" />
+
 Recovered Deleted File List and Details
 
 ## RESULT:
